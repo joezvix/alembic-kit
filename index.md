@@ -1,9 +1,9 @@
 ---
-title: joezvix | Homepage
+title: joezvix Gaming
 layout: page
-feature_image: "https://www.joezvix.ga/logo.png"
+feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello there!
+  ## Welcome to my personal webpage!
 ---
 
-There isn't much going on here yet, but watch this space
+I am so glad that you have decided to give the joezvix website a visit today.
