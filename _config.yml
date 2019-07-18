@@ -20,7 +20,7 @@ plugins:
 
 # Site settings
 url: 'https://www.joezvix.ga'
-baseurl: ''
+baseurl: 'www.joezvix.ga'
 title: 'joezvix Gaming'
 description: 'Homepage'
 permalink: pretty
