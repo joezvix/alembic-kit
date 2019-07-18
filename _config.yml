@@ -22,7 +22,7 @@ plugins:
 url: 'https://www.joezvix.ga'
 baseurl: ''
 title: 'joezvix Gaming'
-description: 'This is my new website'
+description: 'Homepage'
 permalink: pretty
 logo: "https://www.joezvix.ga/logo.png"
 
