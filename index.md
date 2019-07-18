@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: joezvix | Homepage
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://www.joezvix.ga/logo.png"
 feature_text: |
-  ## Hello world
+  ## Hello there!
 ---
 
 There isn't much going on here yet, but watch this space
