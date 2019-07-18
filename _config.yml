@@ -38,6 +38,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+  title: Mail
+  url: /mail/
 # Footer nav
 navigation_footer:
 - title: Back to top
